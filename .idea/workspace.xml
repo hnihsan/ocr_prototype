@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70d813e-28a8-4662-9d60-5ccadf3f774a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/text_detection2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scanned_item.png" beforeDir="false" afterPath="$PROJECT_DIR$/scanned_item.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_detection2.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_detection2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +24,7 @@
   <component name="ProjectId" id="1jKBNwv3dK0O060aC9fCcpHodiv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="IgnoreLang&#10;GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />

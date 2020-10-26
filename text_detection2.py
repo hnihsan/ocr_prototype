@@ -32,7 +32,7 @@ def start_ocr():
         print(result_string)
         for item in result_string:
             filtered_string = FilterAlphanumeric(item)
-            if filtered_string != "" and len(filtered_string) >= 5 and len(filtered_string) <=10:
+            if filtered_string == "BBUY491":
                 result = filtered_string
                 break
         img = ResizeWithAspectRatio(filtered, height=600)
@@ -49,7 +49,7 @@ def start_ocr():
             cv2.destroyAllWindows()
             break
 
-        if len(result) >= 5 and len(result) <=10:
+        if result == "BBUY491":
             print("Gotcha")
             cv2.imwrite('scanned_item.png', filtered)
             cv2.destroyAllWindows()
